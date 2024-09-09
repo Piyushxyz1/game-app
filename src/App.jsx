@@ -10,7 +10,7 @@ import './App.css'
 const App = () => {
   return (
     <>
-      <Router basename='/game-app'>
+      <Router basename='/game-app/'>
         <Routes>
           <Route path='/' element={<Home/>}/>
       
