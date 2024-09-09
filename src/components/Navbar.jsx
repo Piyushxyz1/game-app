@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <div className="logo"><img src = {'/game-app/ +roblox.svg'}/></div>
+        <div className="logo"><img src = {import.meta.env.BASE_URL+ "roblox.svg"}/></div>
         <div className={show ? "navLinks showmenu" : "navLinks"}>
           <div className="links">
             {data[0].navbarLinks.map((element) => (
