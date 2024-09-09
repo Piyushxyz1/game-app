@@ -4,19 +4,19 @@ import
         {"ourgames" : [
             {
                 "id": 1,
-                "image": "../../public./picgame.png",
+                "image": "./picgame.png",
                 "title": "PREMIUM GAMES",
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
             },
             {
                 "id": 2,
-                "image": "/downloader.png",
+                "image": "./downloader.png",
                 "title": "SUPER FAST DOWNLOADS",
                 "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
             },
             {
                 "id": 3,
-                "image": "/pricee.png",
+                "image": "./pricee.png",
                 "title": "GREAT PRICES",
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
             }
@@ -24,43 +24,43 @@ import
         "gamelist": [
             {
                 "id": 1,
-                "image": "/ultimate.jpg",
+                "image": "./ultimate.jpg",
                 "title": "GEARSOFWAR:ULTIMATE EDITION",
                 "category": "ACTION"
             },
             {
                 "id": 2,
-                "image": "/spiderman.jpg",
+                "image": "./spiderman.jpg",
                 "title": "SPIDER MAN",
                 "category": "Action"
             },
             {
                 "id": 3,
-                "image": "/assasin mirage.avif",
+                "image": "./assasin mirage.avif",
                 "title": "Assasin's creed Mirage",
                 "category": "Adventure"
             },
             {
                 "id": 4,
-                "image": "/battle.jpg",
+                "image": "./battle.jpg",
                 "title": "BATTLE CRASHER",
                 "category": "Casual"
             },
             {
                 "id": 5,
-                "image": "/gears of war.jpg",
+                "image": "./gears of war.jpg",
                 "title": "Gears of war",
                 "category": "ACTION"
             },
             {
                 "id": 6,
-                "image": "/residentevil.jpg",
-                "title": "/RESIDENT EVIL 7",
+                "image": "./residentevil.jpg",
+                "title": "RESIDENT EVIL 7",
                 "category": "SHOOTER"
             },
             {
                 "id": 7,
-                "image": "/sleepingdogs.jpg",
+                "image": "./sleepingdogs.jpg",
                 "title": "SLEEPING DOGS",
                 "category": "ACTION/ADVENTURE"
             },
