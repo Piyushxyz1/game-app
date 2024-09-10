@@ -1117,6 +1117,13 @@ height:fit-content ;
   .order .container .banner .react-arrow{
 font-size: 3vw;
   }
+
+  .order .container .banner .order_form_box form{
+
+    width: 100%;
+
+
+  }
 }
 
 
