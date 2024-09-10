@@ -430,13 +430,13 @@ cursor: pointer
 }
 .about .container .banner .mid {
   width: 65%;
-  font-size: 18px;
+  font-size: 3vw;
   font-weight: 300;
-  letter-spacing: 2px;
-  word-spacing: 5px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
 }
 .about .container .banner .top p {
-  font-size: 1.5rem;
+  font-size: 5vw;
   font-weight: 500;
   color: rgb(255,255,255);
   letter-spacing: 2px;
@@ -510,21 +510,6 @@ cursor: pointer
   
 
   
-  .about .top .heading{
-
-    font-size: 4vw;
-
-  }
-  
-  .about .top pr {
-
-    font-size: 4vw;
-    
-  }
-  .about .container{
-
-  max-width: 50vw;
-  }
   
 }
 /**********************************************************************************************************************/
