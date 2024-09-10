@@ -534,6 +534,13 @@ margin-top: 5px;
 
   width: 100%;
   
+  
+}
+
+.about .container{
+
+  display: flex;
+  flex-direction: column;
 }
 
 .about .container .banner a {
@@ -563,6 +570,7 @@ margin: auto;
 .about .container .banner .mid {
 
   font-size: 3vw;
+  width: 50%;
  
 }
 /**********************************************************************************************************************/
