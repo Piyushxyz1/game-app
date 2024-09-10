@@ -846,10 +846,9 @@ margin: auto;
   .who_are_we .container .text_banner .card {
     width: 50%;
   }
-}
-@media (max-width: 400px) {
 
 
+  
   .who_are_we .container .text_banner {
     flex-direction: column;
     justify-content: space-between;
@@ -860,6 +859,7 @@ margin: auto;
 
   }
 }
+
 
 /**********************************************************************************************************************/
 
