@@ -511,10 +511,13 @@ cursor: pointer
   }
 }
 @media (max-width: 530px) {
-   .about.heading {
-    font-size: 7vw;
+  .about.heading{
+    font: size 7vw; ;
   }
-  .about {
+  .about.mid{
+    font: size 3vw; ;
+  }
+  .about{
 
     width: fit-content;
   }
