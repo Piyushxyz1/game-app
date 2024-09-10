@@ -192,12 +192,12 @@ nav svg {
     color:#fff;
   }
 
-  
-  nav.showmenu{
+  nav .logo{
 
-    display: none;
+    width: 2vw;
   }
-  
+
+
 }
 
 
