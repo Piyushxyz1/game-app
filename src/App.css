@@ -1117,7 +1117,7 @@ height: fit-content;
 font-size: 3vw;
   }
 
-  .order .container .banner .order_form_box form {
+  .order .container .banner .order_form_box form div{
 height: fit-content;
     display: flex;
     flex-direction: column;
