@@ -277,7 +277,7 @@ min-height: fit-content;
 .header-contents p {
 
   color:#fff;
-  font-size: 20px;
+  font-size: 2vw;
   margin-left: 50px;
 }
 
@@ -376,7 +376,7 @@ cursor: pointer
 
   .header-contents p{
 
-    font-size: 4vw;
+    font-size: 2vw;
   
   
 }
@@ -468,7 +468,7 @@ cursor: pointer
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  font-size: 4vw;
+  font-size: 2vw;
   color: rgb(255,255,255);
   font-weight:300 ;
   background: #d80388;
@@ -577,7 +577,7 @@ cursor: pointer
   margin-bottom: 12px;
 }
 .qualities .container .card .description {
-  font-size: 3vw;
+  font-size: 2vw;
   color: rgb(255, 255, 255);
   font-weight: 400;
 }
@@ -607,7 +607,6 @@ cursor: pointer
     padding: 0;
     margin: 0 auto;
     margin-bottom: 40px;
-    
   }
 }
 @media (max-width: 485px) {
