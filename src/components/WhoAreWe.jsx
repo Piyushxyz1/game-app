@@ -18,7 +18,7 @@ const WhoAreWe = () => {
           </div>
           <div className="image_banner">
             <img className='gradient_bg' src="" alt="gradientBg" style={{height:"450px",width:"350px",borderRadius:"20px"}} />
-            <img src="./OIP.jpg" alt="food" style= {{borderRadius:"20px",opacity:"0.8",height:"800px",width:"800px"}} />
+            <img src="./OIP.jpg" alt="food" style= {{borderRadius:"20px",opacity:"0.8",height:"600px",width:"600px"}} />
           </div>
           <div className="text_banner">
             {
