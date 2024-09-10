@@ -507,7 +507,7 @@ cursor: pointer
 }
 @media (max-width: 530px) {
   
-  .about .top h1{
+  .about .top .heading{
 
     font-size: 4vw;
 
