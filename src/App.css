@@ -428,7 +428,7 @@ cursor: pointer
 
  .about .heading {
   font-weight: 400;
-  font-size: 7vw;
+  font-size: 60px;
   color:rgb(255, 255, 255)
  
  
@@ -519,6 +519,14 @@ cursor: pointer
   .about .mid{
     font-size:  2vw; 
   }
+  
+ .about .heading {
+  
+  font-size: 5vw;
+ 
+ 
+ 
+}
   
 }
 /**********************************************************************************************************************/
