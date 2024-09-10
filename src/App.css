@@ -413,12 +413,7 @@ cursor: pointer
  
  
 }
-.about .container {
-  max-width: 1500px;
-  min-width: 1500px;
-  display: flex;
 
-}
 .about .container .banner {
  
   display: flex;
