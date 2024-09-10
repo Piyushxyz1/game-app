@@ -508,11 +508,7 @@ cursor: pointer
 @media (max-width: 530px) {
   
 
-
-  .about{
-
-    width: fit-content;
-  }
+  
   .about .top .heading{
 
     font-size: 4vw;
