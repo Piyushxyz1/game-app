@@ -411,7 +411,7 @@ cursor: pointer
 .about .container {
   max-width: 1500px;
   min-width: 1500px;
-  display: flex;
+  margin:10px
 
 }
 
@@ -501,13 +501,13 @@ cursor: pointer
   }
 }
 @media (max-width: 530px) {
-  .about.heading h1{
+  .about .heading {
     font-size:  5vw; 
   }
-  .about.pr p{
+  .about .pr {
     font-size:  3vw; 
   }
-  .about.mid{
+  .about .mid{
     font-size:  2vw; 
   }
   
