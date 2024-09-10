@@ -28,9 +28,7 @@ const About = () => {
               </span>
             </Link>
           </div>
-          <div className="banner">
-        
-          </div>
+          
         </div>
       </section>
     </>
