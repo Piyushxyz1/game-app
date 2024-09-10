@@ -454,7 +454,7 @@ cursor: pointer
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 3vw;
   color: rgb(255,255,255);
   font-weight:300 ;
   background: #d80388;
@@ -498,9 +498,7 @@ cursor: pointer
   }
 }
 @media (max-width: 786px) {
-  .about .container {
-    flex-direction: column-reverse;
-  }
+ 
   .about .container .banner img {
     width: 400px;
     margin: 0 auto;
@@ -514,12 +512,15 @@ cursor: pointer
   .about.heading{
     font: size 7vw; ;
   }
-  .about.mid{
+  .about.heading:first-child{
     font: size 3vw; ;
+  }
+  .about.mid{
+    font: size 2vw; ;
   }
   .about{
 
-    width: fit-content;
+    width: 100vw
   }
 }
 /**********************************************************************************************************************/
