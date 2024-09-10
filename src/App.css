@@ -429,14 +429,14 @@ cursor: pointer
  
 }
 .about .container .banner .mid {
-  width: 65%;
-  font-size: 3vw;
+  width: 50%;
+  font-size: 1vw;
   font-weight: 300;
   letter-spacing: 1px;
   word-spacing: 2px;
 }
 .about .container .banner .top p {
-  font-size: 5vw;
+  font-size: 2vw;
   font-weight: 500;
   color: rgb(255,255,255);
   letter-spacing: 2px;
