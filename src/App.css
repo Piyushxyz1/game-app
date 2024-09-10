@@ -512,12 +512,12 @@ cursor: pointer
 }
 @media (max-width: 530px) {
   .heading {
-    font-size: 3rem;
+    font-size: 7vw;
   }
 }
 @media (max-width: 450px) {
   .about .container .banner img {
-    width: 100%;
+    width: fit-content;
   }
 }
 /**********************************************************************************************************************/
