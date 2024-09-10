@@ -397,7 +397,7 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   display: flex;
- height:45vw;
+ height:50vw;
   justify-content: center;
   align-items: center;
   background: url('/gears4.jpg');
