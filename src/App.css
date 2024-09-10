@@ -193,11 +193,6 @@ nav svg {
   }
 
   
-  .logo img{
-
-
-    width: 8vw;
-  }
   nav.showmenu{
 
     display: none;
@@ -396,10 +391,9 @@ cursor: pointer
 /******************* ABOUT US COMPONENT STYLING **************/
 /**********************************************************************************************************************/
 .about {
-  display: flex;
- height:45vw;
-  justify-content: center;
-  align-items: center;
+
+ height:50vw;
+ 
   background: url('/gears4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
