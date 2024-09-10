@@ -511,7 +511,7 @@ cursor: pointer
   }
 }
 @media (max-width: 530px) {
-  .heading {
+   .about .heading {
     font-size: 7vw;
   }
   .about {
