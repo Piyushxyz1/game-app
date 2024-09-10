@@ -43,13 +43,13 @@ nav::after {
  
 }
 nav .logo  {
-  
+  flex: 1;
   display: flex;
   align-items: center;
-  font-size: 2vw;
+  font-size: 1rem;
 }
 nav .navLinks {
- 
+  flex: 2;
 }
 nav .navLinks {
   display: flex;
@@ -192,12 +192,17 @@ nav svg {
     color:#fff;
   }
 
-  nav .logo{
+  
+  .logo img{
 
-    width: 2vw;
+
+    width: 8vw;
   }
+  nav.showmenu{
 
-
+    display: none;
+  }
+  
 }
 
 
@@ -391,15 +396,16 @@ cursor: pointer
 /******************* ABOUT US COMPONENT STYLING **************/
 /**********************************************************************************************************************/
 .about {
-
- height:50vw;
- 
+  display: flex;
+ height:45vw;
+  justify-content: center;
+  align-items: center;
   background: url('/gears4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.9;
   color: rgb(255, 255, 255);
- 
+  font-size: 3vw;
   font-weight: 500;
   -webkit-font-smoothing :antialiased;
 
@@ -411,8 +417,14 @@ cursor: pointer
 .about .container {
   max-width: 1500px;
   min-width: 1500px;
-  margin:10px
+  display: flex;
 
+}
+.about .container .banner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
  .about .heading {
@@ -501,13 +513,13 @@ cursor: pointer
   }
 }
 @media (max-width: 530px) {
-  .about .heading {
+  .about.heading h1{
     font-size:  5vw; 
   }
-  .about .pr {
+  .about.pr p{
     font-size:  3vw; 
   }
-  .about .mid{
+  .about.mid{
     font-size:  2vw; 
   }
   
