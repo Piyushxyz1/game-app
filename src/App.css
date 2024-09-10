@@ -539,8 +539,10 @@ margin-top: 5px;
 
 .about .container .banner a {
  font-size: 2vw;
- border:1px solid none;
- padding: 1vw;
+ border:1px solid ;
+ padding: 1.5vw;
+ outline: none;
+
  
 
 
