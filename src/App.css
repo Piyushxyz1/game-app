@@ -198,10 +198,10 @@ nav svg {
 
     width: 8vw;
   }
-  nav.showmenu{
+.nav .navLinks{
 
-    display: none;
-  }
+  display: none;
+}
   
 }
 
