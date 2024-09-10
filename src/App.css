@@ -907,7 +907,7 @@ margin: auto;
       
       background-color: #0062ff;
       color:#fff;
-      font-size: 3vw;
+      font-size: max(3vw,20px) ;
     
       
       
