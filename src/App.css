@@ -218,7 +218,7 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  height:45vw;
+  min-height:fit-content;
 
   background:url("/lion.jpg") no-repeat;
   opacity: 0.8;
