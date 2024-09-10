@@ -60,7 +60,7 @@ setInfo({firstname: "", lastname: "", email: "", phone: "" })
          <h1>REGISTER TO GET YOUR GAMES HERE!</h1>
          <button className="react-arrow "> LEARN MORE </button>
         </div>
-        <div className="banner2 ">
+        <div className="banner ">
           <div className="order_form_box">
             <h1>Order your Games </h1>
         
