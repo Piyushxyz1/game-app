@@ -201,6 +201,10 @@ nav svg {
   nav .navLinks .links {
     display:none
   }
+
+  nav .navLinks .links .menuBtn {
+    display:none
+  }
   
   
 }
