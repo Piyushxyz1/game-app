@@ -393,7 +393,7 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   display: flex;
- height:45vw;
+ height:auto;
   justify-content: center;
   align-items: center;
   background: url('/gears4.jpg');
@@ -511,9 +511,12 @@ cursor: pointer
   }
 }
 @media (max-width: 530px) {
-  .about {
+  .heading {
     font-size: 7vw;
-    max-width: 65%;
+  }
+  .about {
+
+    width: fit-content;
   }
 }
 /**********************************************************************************************************************/
