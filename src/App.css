@@ -1104,7 +1104,7 @@ font-size: 5vw;
     width: 100%;
   }
 
-  .order .container {
+  .order .container .banner{
 
     display: flex;
     flex-direction: column;
