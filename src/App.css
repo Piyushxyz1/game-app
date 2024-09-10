@@ -405,14 +405,13 @@ cursor: pointer
   background-size: cover;
   opacity: 0.9;
   color: rgb(255, 255, 255);
-  font-size: 3vw;
+ 
   font-weight: 500;
   -webkit-font-smoothing :antialiased;
 
 
  
-  position: relative;
-  
+ 
 }
 .about .container {
   max-width: 1500px;
