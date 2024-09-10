@@ -218,7 +218,7 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  height:50vw;
+  height:55vw;
 
   background:url("/lion.jpg") no-repeat;
   opacity: 0.8;
@@ -256,7 +256,7 @@ min-height: fit-content;
   font-weight: 500;
   color: rgb(255, 255, 255);
   font-size: 70px;
-  text-align: center;
+ 
   margin-left: 50px;
 
 
@@ -267,7 +267,7 @@ min-height: fit-content;
 
   color:#fff;
   font-size: 2vw;
-  text-align: center;
+  margin-left: 50px;
 }
 
 
@@ -277,7 +277,7 @@ min-height: fit-content;
 font-weight: 500;
 padding:1vw 2.3vw;
 
-font-size: max(1vw,15px);
+font-size: max(1vw,12px);
 border-radius: 50px;
 border: none;
 margin-top: 10px;
@@ -289,7 +289,8 @@ margin-top: 10px;
 
   display: flex;
 justify-content: space-between;
-gap:50px;
+align-items: center;
+gap:20px;
 
 
 }
