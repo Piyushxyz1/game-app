@@ -10,7 +10,7 @@ const About = () => {
           <div className="banner">
             <div className="top">
               <h1 className="heading">ABOUT US</h1>
-              <p>WE PROMISE TO DELIVER THE BEST GAMES HERE.</p>
+              <p className="pr">WE PROMISE TO DELIVER THE BEST GAMES HERE.</p>
             </div>
             <p className="mid">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit.

@@ -423,7 +423,7 @@ cursor: pointer
   justify-content: space-evenly;
 }
 
-.heading {
+ .about .heading {
   font-weight: 400;
   font-size: 4rem;
   color:rgb(255, 255, 255)
@@ -510,10 +510,10 @@ cursor: pointer
 }
 @media (max-width: 530px) {
   .about.heading{
-    font: size 7vw; ;
+    font: size 5vw; 
   }
-  .about.heading:first-child{
-    font: size 3vw; ;
+  .about.pr{
+    font: size 3vw; 
   }
   .about.mid{
     font: size 2vw; ;
