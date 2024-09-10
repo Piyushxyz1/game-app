@@ -470,7 +470,7 @@ cursor: pointer
   padding: 10px;
   border-radius: 6px;
   display: flex;
-  width: fit-content;
+  width: 5vw;
   align-items: center;
   justify-content: center;
   text-decoration: none;
