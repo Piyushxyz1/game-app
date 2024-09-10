@@ -507,20 +507,17 @@ cursor: pointer
 }
 @media (max-width: 530px) {
   
-  .about .pr p {
-    font-size:  1vw; 
-  }
-  .about p{
-    font-size:  2vw; 
+  .about .top h1{
+
+    font-size: 4vw;
+
   }
   
- .about h1 {
-  
-  font-size: 3vw;
- 
- 
- 
-}
+  .about .top p {
+
+    font-size: 3vw;
+    
+  }
   
 }
 /**********************************************************************************************************************/
