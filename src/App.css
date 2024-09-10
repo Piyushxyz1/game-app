@@ -455,8 +455,7 @@ cursor: pointer
   width: 50%;
   font-size: 20px;
   font-weight: 400;
-  letter-spacing: 1px;
-  word-spacing: 2px;
+
 }
 .about .container .banner .top p {
   font-size: 3vw;
@@ -557,7 +556,7 @@ margin: auto;
 
 .about .heading{
 
-  font-size: 3vw;
+  font-size: 4vw;
 }
 
 
