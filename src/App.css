@@ -174,14 +174,7 @@ nav svg {
   }
 }
 @media (max-width: 650px) {
-  nav .showmenu {
-    margin: 0;
-    width: 100%;
-    border-radius: 0;
-    display: flex;
-    
-
-  }
+ 
    
   }
 
@@ -196,7 +189,7 @@ nav svg {
   .logo img{
 
 
-    width: 10vw;
+    width: 8vw;
   }
   
 }
