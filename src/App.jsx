@@ -10,7 +10,7 @@ import './App.css'
 const App = () => {
   return (
     <>
-      <Router basename='/game-app/'>
+      <Router basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path='/' element={<Home/>}/>
       
