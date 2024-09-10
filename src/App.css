@@ -515,11 +515,11 @@ cursor: pointer
   .about .pr {
     font-size:  1vw; 
   }
-  .about .mid{
+  .about p{
     font-size:  2vw; 
   }
   
- .about .heading {
+ .about h1 {
   
   font-size: 2vw;
  
