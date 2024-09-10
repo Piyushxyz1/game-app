@@ -522,7 +522,7 @@ cursor: pointer
   }
   .about .container{
 
-   min-width: 100vw;
+  max-width: min-content;
   }
   
 }
