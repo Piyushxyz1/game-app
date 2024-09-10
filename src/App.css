@@ -1116,6 +1116,17 @@ height: fit-content;
   .order .container .banner .react-arrow{
 font-size: 3vw;
   }
+
+  .order .container .banner .order_form_box form {
+height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+  }
 }
 
 
