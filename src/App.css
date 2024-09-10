@@ -241,7 +241,7 @@ bottom: 8%;
 left:6vw;
 animation: fadeIn 3s;
 min-height: fit-content;
-z-index: 2;
+
 -webkit-font-smoothing :antialiased;
 
 
@@ -257,7 +257,7 @@ z-index: 2;
   color: rgb(255, 255, 255);
   font-size: 70px;
   text-align: center;
-  margin-left: 80px;
+  margin-left: 50px;
 
 
 }
@@ -267,6 +267,7 @@ z-index: 2;
 
   color:#fff;
   font-size: 2vw;
+  text-align: center;
 }
 
 
