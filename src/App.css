@@ -393,7 +393,7 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   display: flex;
- height:auto;
+ height:45vw;
   justify-content: center;
   align-items: center;
   background: url('/gears4.jpg');
@@ -414,6 +414,7 @@ cursor: pointer
   max-width: 1500px;
   min-width: 1500px;
   display: flex;
+  position: absolute;
 
 }
 .about .container .banner {
@@ -516,7 +517,7 @@ cursor: pointer
   }
   .about {
 
-    width: fit-content;
+    
   }
 }
 /**********************************************************************************************************************/
