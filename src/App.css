@@ -452,8 +452,8 @@ cursor: pointer
 }
 .about .container .banner .mid {
   width: 50%;
-  font-size: 2vw;
-  font-weight: 300;
+  font-size: 3vw;
+  font-weight: 400;
   letter-spacing: 1px;
   word-spacing: 2px;
 }
