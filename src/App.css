@@ -516,6 +516,11 @@ cursor: pointer
 .about{
 
   width: 100%;
+  
+}
+.about .heading{
+
+  font-size: 10vw;
 }
   
   
