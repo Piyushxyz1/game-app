@@ -514,7 +514,7 @@ cursor: pointer
 @media (max-width: 530px) {
   
   .about .pr {
-    font-size:  3vw; 
+    font-size:  1vw; 
   }
   .about .mid{
     font-size:  2vw; 
@@ -522,7 +522,7 @@ cursor: pointer
   
  .about .heading {
   
-  font-size: 5vw;
+  font-size: 2vw;
  
  
  
