@@ -508,7 +508,10 @@ cursor: pointer
 }
 @media (max-width: 530px) {
   
+.about{
 
+  width: 100%;
+}
   
   
 }
