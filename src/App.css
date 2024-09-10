@@ -515,11 +515,6 @@ cursor: pointer
     font-size: 7vw;
   }
 }
-@media (max-width: 450px) {
-  .about .container .banner img {
-    width: fit-content;
-  }
-}
 /**********************************************************************************************************************/
 
 /* QUALITIES COMPONENT STYLING */
