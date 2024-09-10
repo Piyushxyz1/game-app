@@ -452,16 +452,16 @@ cursor: pointer
 }
 .about .container .banner .mid {
   width: 50%;
-  font-size: 4vw;
+  font-size: 3vw;
   font-weight: 400;
   letter-spacing: 1px;
-  word-spacing: 2px;
+  word-spacing: 1px;
 }
 .about .container .banner .top p {
-  font-size: 2vw;
+  font-size: 4vw;
   font-weight: 500;
   color: rgb(255,255,255);
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 .about .container .banner a {
   margin-top: 20px;
