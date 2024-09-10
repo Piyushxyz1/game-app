@@ -1198,7 +1198,7 @@ margin-bottom: 10px;
 
 text-align: center;
 transform: translateY(80px);
-
+font-size: 40px;
 
 font-weight: 600;
 letter-spacing: 2px;
@@ -1206,15 +1206,9 @@ letter-spacing: 2px;
 
 }
 
-
-.premium h1{
-
-  font-size: 50px;
-}
-
 @media (max-width:430px) {
 
-  .premium h1{
+  .premium{
 
     font-size: 5vw;
   }
