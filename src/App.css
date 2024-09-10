@@ -1103,6 +1103,18 @@ font-size: 5vw;
   .order .container .banner img {
     width: 100%;
   }
+
+  .order .container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+
+  .order .container .banner .react-arrow{
+font-size: 3vw;
+  }
 }
 
 
