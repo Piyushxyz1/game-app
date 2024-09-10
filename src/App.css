@@ -562,13 +562,13 @@ cursor: pointer
   margin-bottom: 25px;
 }
 .qualities .container .card .title {
-  font-size: 2rem;
+  font-size: 3vw;
   font-weight: 700;
   color: rgb(255,255,255);
   margin-bottom: 12px;
 }
 .qualities .container .card .description {
-  font-size: 1rem;
+  font-size: 1vw;
   color: rgb(255, 255, 255);
   font-weight: 400;
 }
