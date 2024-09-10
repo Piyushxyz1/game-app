@@ -1,10 +1,10 @@
-import 
+
 {
     "data": [
         {"ourgames" : [
             {
                 "id": 1,
-                "image": "./picgame.png",
+                "image": "./picgame.PNG",
                 "title": "PREMIUM GAMES",
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
             },
