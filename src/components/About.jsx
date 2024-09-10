@@ -7,7 +7,7 @@ const About = () => {
     <>
       <section className="about" id="about">
         <div className="container">
-          <div className="banner">
+        
             <div className="top">
               <h1 className="heading">ABOUT US</h1>
               <p className="pr">WE PROMISE TO DELIVER THE BEST GAMES HERE.</p>
@@ -27,7 +27,7 @@ const About = () => {
                 <HiOutlineArrowRight />
               </span>
             </Link>
-          </div>
+          
           
         </div>
       </section>

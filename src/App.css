@@ -418,12 +418,7 @@ cursor: pointer
  
 }
 
-.about .container .banner {
- 
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-}
+
 
  .about .heading {
   font-weight: 400;
