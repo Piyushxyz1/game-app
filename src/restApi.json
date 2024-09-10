@@ -4,7 +4,7 @@
         {"ourgames" : [
             {
                 "id": 1,
-                "image": "./picgame.PNG",
+                "image": "./picgame.png",
                 "title": "PREMIUM GAMES",
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
             },
@@ -66,7 +66,7 @@
             },
             {
                 "id": 8,
-                "image": "/alanwake.jpg",
+                "image": "./alanwake.jpg",
                 "title": "ALAN WAKE",
                 "category": "ADVENTURE"
             }
