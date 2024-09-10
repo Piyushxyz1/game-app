@@ -198,7 +198,9 @@ nav svg {
 
     width: 8vw;
   }
-
+  nav .navLinks .links {
+    display:none
+  }
   
   
 }
