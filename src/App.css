@@ -1106,9 +1106,11 @@ font-size: 5vw;
 
   .order .container .banner{
 
-    display: flex;
+height:fit-content ;   
+   display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
   }
 
 
