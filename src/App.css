@@ -474,9 +474,9 @@ cursor: pointer
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 20px;
   color: rgb(255,255,255);
-  font-weight:300 ;
+  font-weight:400 ;
   background: #d80388;
   transition: 0.3s;
   margin-bottom: 20px;
