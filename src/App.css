@@ -515,13 +515,8 @@ cursor: pointer
    .about .heading {
     font-size: 7vw;
   }
-  .about  .mid{
-    font-size: 2vw;
-
-    
-  }
-  .about{
-
+  .about {
+height: 65vw;
     
   }
 }
