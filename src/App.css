@@ -46,7 +46,7 @@ nav .logo  {
   flex: 1;
   display: flex;
   align-items: center;
-  font-size: 8vw;
+  font-size: 2vw;
 }
 nav .navLinks {
   flex: 2;
