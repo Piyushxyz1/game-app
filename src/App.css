@@ -701,7 +701,7 @@ cursor: pointer
 }
 @media (max-width: 600px) {
   .menu .container .game_container .card h3 {
-    font-size: 1.2rem;
+    font-size: 2vw;
   }
 }
 @media (max-width: 450px) {
