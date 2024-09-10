@@ -396,10 +396,9 @@ cursor: pointer
 /******************* ABOUT US COMPONENT STYLING **************/
 /**********************************************************************************************************************/
 .about {
-  display: flex;
+  
  height:50vw;
-  justify-content: center;
-  align-items: center;
+ 
   background: url('/gears4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
