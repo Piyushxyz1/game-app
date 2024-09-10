@@ -452,16 +452,16 @@ cursor: pointer
 }
 .about .container .banner .mid {
   width: 50%;
-  font-size: 3vw;
-  font-weight: 400;
+  font-size: 2vw;
+  font-weight: 300;
   letter-spacing: 1px;
-  word-spacing: 1px;
+  word-spacing: 2px;
 }
 .about .container .banner .top p {
-  font-size: 4vw;
+  font-size: 2vw;
   font-weight: 500;
   color: rgb(255,255,255);
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 .about .container .banner a {
   margin-top: 20px;
@@ -474,7 +474,7 @@ cursor: pointer
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  font-size: 8px;
+  font-size: 2vw;
   color: rgb(255,255,255);
   font-weight:300 ;
   background: #d80388;
@@ -577,13 +577,13 @@ cursor: pointer
   margin-bottom: 25px;
 }
 .qualities .container .card .title {
-  font-size: 2vw;
+  font-size: 3vw;
   font-weight: 700;
   color: rgb(255,255,255);
   margin-bottom: 12px;
 }
 .qualities .container .card .description {
-  font-size: 2vw;
+  font-size: 3vw;
   color: rgb(255, 255, 255);
   font-weight: 400;
 }
