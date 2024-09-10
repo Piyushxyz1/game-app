@@ -401,7 +401,8 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   
- height:50vw;
+ height:fit-content;
+
  
   background: url('/gears4.jpg');
   background-repeat: no-repeat;
@@ -522,7 +523,7 @@ cursor: pointer
   }
   .about .container{
 
-  max-width: min-content;
+  max-width: 50vw;
   }
   
 }
