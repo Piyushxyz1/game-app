@@ -9,7 +9,7 @@ const Footer = () => {
 
 <div className='footer-content'>
     <div className="footer-content-left">
-        <img src = './Roblox.svg'  style={{height:"200x", width:"120px"}} alt = ""/>
+        <img src = './Roblox.svg'  style={{height:"100px", width:"100px"}} alt = ""/>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, tempora. Aperiam ipsa a voluptatem dolorem temporibus, eum facilis itaque iusto quos tempore, atque rem nam numquam adipisci exercitationem possimus expedita?</p>
         <div className="footer-social-icons">
             <img src="twitter_icon.png" alt="" />

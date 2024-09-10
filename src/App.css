@@ -1217,7 +1217,10 @@ margin-bottom: 10px;
 
   text-align: center;
 }
-  
+  .footer-content-left img{
+
+    width:3vw
+  }
 }
 
 
