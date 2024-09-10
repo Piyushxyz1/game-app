@@ -450,9 +450,10 @@ cursor: pointer
  
  
 }
+
 .about .container .banner .mid {
   width: 50%;
-  font-size: 2vw;
+  font-size: 20px;
   font-weight: 400;
   letter-spacing: 1px;
   word-spacing: 2px;
@@ -487,7 +488,7 @@ cursor: pointer
   padding: 5px;
 
  
-margin-top: 8px;
+margin-top: 5px;
   color:rgb(255, 255, 255);
   text-align: center;
 }
@@ -543,6 +544,13 @@ margin-top: 8px;
 .about .heading{
 
   font-size: 8vw;
+}
+
+
+.about .container .banner .mid {
+  width: 50%;
+  font-size: 3vw;
+ 
 }
 /**********************************************************************************************************************/
 }
