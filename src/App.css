@@ -198,10 +198,11 @@ nav svg {
 
     width: 8vw;
   }
-.nav .navLinks{
-
-  z-index: 0;
-}
+  nav .navLinks .links {
+    display: none;
+  }
+  
+  
   
 }
 
