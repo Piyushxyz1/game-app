@@ -26,6 +26,7 @@ nav {
 
   padding: 10px 10px 10px 10px;
 
+  
   justify-content: space-between;
   position: relative;
   align-items: center;
@@ -1162,7 +1163,7 @@ height: fit-content;
   gap:20px;
   padding:20px 8vw;
   padding-top:80px;
- 
+margin-top: 1px;
 
   font-weight: 400;
 
