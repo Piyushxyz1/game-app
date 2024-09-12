@@ -230,7 +230,7 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  min-height:70vw;
+  min-height:50vw;
 
   background:url("/lion.jpg") no-repeat;
   opacity: 0.8;
@@ -392,7 +392,10 @@ cursor: pointer
 
 @media (max-width:442px) {
 
+.header{
 
+  min-height: 100vw;
+  min-width:100vw
 .header-contents {
   height:fit-content;
  
