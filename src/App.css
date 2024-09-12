@@ -230,7 +230,7 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  min-height:80vw;
+  min-height:70vw;
 
   background:url("/lion.jpg") no-repeat;
   opacity: 0.8;
@@ -405,7 +405,7 @@ cursor: pointer
     margin-left:40%
   }
   
-  .gap-button button {
+  .gap-button  {
 
  
    
