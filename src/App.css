@@ -230,12 +230,12 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  min-height:50vw;
+  min-height:60vw;
 
 
 
   background:url("/lion.jpg") no-repeat;
-  opacity: 0.8;
+  opacity: 0.9;
 
   background-size:cover ;
   position: relative;
