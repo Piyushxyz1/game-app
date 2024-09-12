@@ -232,7 +232,7 @@ nav svg {
 
   min-height:50vw;
   min-width:1500px;
-  max-width:1500px;
+
 
   background:url("/lion.jpg") no-repeat;
   opacity: 0.8;
@@ -440,7 +440,7 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   
- height:fit-content;
+ height:50vw;
 
  
   background: url('/gears4.jpg');
