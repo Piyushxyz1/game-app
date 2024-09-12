@@ -396,6 +396,7 @@ cursor: pointer
 .header-contents {
 height:fit-content;
   display:flex;
+  flex-direction:column;
   justify-content:center;
   align-items:center;
 }
@@ -416,6 +417,7 @@ height:fit-content;
   .header-contents p{
 
     font-size: 3vw;
+   
   
   
 }
