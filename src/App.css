@@ -398,23 +398,18 @@ cursor: pointer
 
 @media (max-width:442px) {
 
-  .header-contents{
-
-     max-width: 70%;
-    
-  }
   
       
 
   .header-contents h2{
 
     font-size: 7vw;
-    margin-left:10%;
+
     
   }
   
   .gap-button button {
-   margin-left:10%;
+
  
    
     font-size: 3vw;
