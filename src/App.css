@@ -231,7 +231,7 @@ nav svg {
 .header{
 
   min-height:50vw;
-  min-width:1500px;
+
 
 
   background:url("/lion.jpg") no-repeat;
@@ -396,14 +396,7 @@ cursor: pointer
 @media (max-width:442px) {
 
 
-  .header{
-width:100vw
-  }
 
-  .header-contents{
-width:100vw;
-    text-align:center
-  }
   .header-contents h2{
 
     font-size: 7vw;
