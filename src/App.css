@@ -395,16 +395,10 @@ cursor: pointer
 @media (max-width:442px) {
 
 .header{
-
-  min-height: 100vw;
-  min-width:100vw;
-}
-.header-contents {
+width:100%;
   height:fit-content;
- 
- 
-
 }
+
   .header-contents h2{
 
     font-size: 7vw;
@@ -440,7 +434,8 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   
- height:50vw;
+ height:45vw;
+  
 
  
   background: url('/gears4.jpg');
@@ -550,6 +545,7 @@ margin-top: 5px;
 .about{
 
   width: 100%;
+  height:fit-content
   
   
 }
