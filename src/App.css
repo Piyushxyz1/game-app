@@ -395,13 +395,14 @@ cursor: pointer
 
 .header-contents {
   height:fit-content;
-  width:100vw
+  width:100%
+ 
 
 }
   .header-contents h2{
 
     font-size: 7vw;
-    margin-left:45vw
+    margin-left:45%
   }
   
   .gap-button button {
@@ -409,7 +410,7 @@ cursor: pointer
  
    
     font-size: 3vw;
- 
+ margin-left:45%
   }
 
 
