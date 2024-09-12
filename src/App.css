@@ -365,8 +365,8 @@ cursor: pointer
 
   .header-contents{
 
-     max-width: 55%;
-    height:fit-content
+     max-width: 65%;
+    
   }
   
       
@@ -400,13 +400,6 @@ cursor: pointer
 
 
 
-  .header-contents{
-
-text-align:center
-      
-
-  
-  }
   .header-contents h2{
 
     font-size: 7vw;
