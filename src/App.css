@@ -398,7 +398,13 @@ cursor: pointer
 
 @media (max-width:442px) {
 
+  .header-contents{
 
+     max-width: 70%;
+    
+  }
+  
+      
 
   .header-contents h2{
 
