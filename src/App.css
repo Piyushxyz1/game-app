@@ -279,7 +279,7 @@ min-height: fit-content;
 
   color:#fff;
   font-size: 2vw;
-  margin-left: 70px;
+  margin-left: 50px;
 }
 
 
@@ -393,6 +393,12 @@ cursor: pointer
 @media (max-width:442px) {
 
 
+.header-contents {
+height:fit-content;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
   .header-contents h2{
 
     font-size: 7vw;
@@ -1245,7 +1251,7 @@ margin-bottom: 10px;
   .footer-content-left img{
 
       width: 10vw;
-    margin:bottom:1vw
+    margin-bottom:1vw
   }
 }
 
