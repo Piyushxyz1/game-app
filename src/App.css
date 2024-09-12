@@ -403,11 +403,12 @@ cursor: pointer
   .header-contents h2{
 
     font-size: 7vw;
+    margin-left:10%;
     
   }
   
   .gap-button button {
-
+   margin-left:10%;
  
    
     font-size: 3vw;
