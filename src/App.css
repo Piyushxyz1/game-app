@@ -399,13 +399,13 @@ cursor: pointer
 
 }
   .header-contents h2{
-
+   margin-left:35%
     font-size: 7vw;
   }
   
   .gap-button button {
 
-
+   margin-left:35%
    
     font-size: 3vw;
  
@@ -415,7 +415,7 @@ cursor: pointer
   .header-contents p{
 
     font-size: 3vw;
-    margin-left:30%
+    margin-left:35%
     
    
   
