@@ -394,10 +394,7 @@ cursor: pointer
 
 @media (max-width:442px) {
 
-.header{
-width:100%;
-  height:fit-content;
-}
+
 
   .header-contents h2{
 
