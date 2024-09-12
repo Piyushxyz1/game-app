@@ -235,7 +235,7 @@ nav svg {
 
 
   background:url("/lion.jpg") no-repeat;
-  opacity: 0.9;
+  opacity: 0.8;
 
   background-size:cover ;
   position: relative;
@@ -404,7 +404,7 @@ cursor: pointer
   .header-contents h2{
 
     font-size: 7vw;
-
+   margin-left:20vw;
     
   }
   .gap-button {
