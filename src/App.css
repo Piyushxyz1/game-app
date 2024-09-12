@@ -407,7 +407,9 @@ cursor: pointer
 
     
   }
-  
+  .gap-button {
+   margin-left:12vw;
+  }
   .gap-button button {
 
  
