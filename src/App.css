@@ -408,13 +408,14 @@ cursor: pointer
     
   }
   .gap-button {
-   margin-left:17vw;
+   margin-left:16vw;
   }
   .gap-button button {
 
  
    
     font-size: 3vw;
+    margin-left:1vw;
  
 
   }
