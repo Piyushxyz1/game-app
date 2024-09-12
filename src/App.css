@@ -397,7 +397,8 @@ cursor: pointer
 .header{
 
   min-height: 100vw;
-  min-width:100vw
+  min-width:100vw;
+}
 .header-contents {
   height:fit-content;
  
