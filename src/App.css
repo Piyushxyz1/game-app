@@ -396,7 +396,10 @@ cursor: pointer
 @media (max-width:442px) {
 
 
-
+  .header{
+height:fit-content;
+    width:fit-content;
+  }
   .header-contents h2{
 
     font-size: 7vw;
