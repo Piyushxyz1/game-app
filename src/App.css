@@ -401,7 +401,7 @@ cursor: pointer
   
       .header{
 
-          min-height: 70vw;
+          min-height: fit-content;
       }
 
   .header-contents h2{
