@@ -230,7 +230,7 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  min-height:30vh;
+  min-height:40vw;
   
 
 
@@ -397,7 +397,10 @@ cursor: pointer
 
 
 @media (max-width:442px) {
+.header{
 
+  min-height:30vh;
+}
   
       .header-contents{
 
@@ -412,7 +415,7 @@ cursor: pointer
   }
   .gap-button {
    margin-left:20vw;
-    margin-bottom:2vw
+ 
   }
   .gap-button button {
 
@@ -557,7 +560,7 @@ margin-top: 5px;
 .about{
 
   
-  height:50vw
+  height:30vh
   
   
 }
