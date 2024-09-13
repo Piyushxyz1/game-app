@@ -404,11 +404,11 @@ cursor: pointer
   .header-contents h2{
 
     font-size: 7vw;
-   margin-left:21vw;
+   margin-left:25vw;
     
   }
   .gap-button {
-   margin-left:12vw;
+   margin-left:15vw;
   }
   .gap-button button {
 
@@ -424,7 +424,7 @@ cursor: pointer
   .header-contents p{
 
     font-size: 4vw;
-      margin-left:18vw
+      margin-left:22vw
 
     
    
