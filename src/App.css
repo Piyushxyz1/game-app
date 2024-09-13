@@ -449,7 +449,7 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   
- height:45vw;
+ height:40vw;
   
 
  
@@ -557,13 +557,6 @@ margin-top: 5px;
 }
 @media (max-width: 530px) {
   
-.about{
-
-  
-  height:40vh
-  
-  
-}
 
 .about .container{
 
