@@ -230,7 +230,7 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  min-height:70vw;
+  min-height:50vw;
 
 
 
@@ -399,7 +399,10 @@ cursor: pointer
 @media (max-width:442px) {
 
   
-      
+      .header{
+
+          min-height: 70vw;
+      }
 
   .header-contents h2{
 
