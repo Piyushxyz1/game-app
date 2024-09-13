@@ -230,7 +230,8 @@ nav svg {
 /**********************************************************************************************************************/
 .header{
 
-  min-height:40vh;
+  min-height:30vh;
+  
 
 
 
@@ -411,7 +412,7 @@ cursor: pointer
   }
   .gap-button {
    margin-left:20vw;
-    margin-botton:2vw
+    margin-bottom:2vw
   }
   .gap-button button {
 
