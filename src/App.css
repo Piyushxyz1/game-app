@@ -237,8 +237,8 @@ nav svg {
 
   background:url("/lion.jpg") no-repeat;
   opacity: 0.8;
-
   background-size:cover ;
+  position:relative;
 
 
 }
@@ -255,7 +255,7 @@ bottom: 8%;
 left:6vw;
 animation: fadeIn 3s;
 min-height: fit-content;
-
+position:absolute;
 -webkit-font-smoothing :antialiased;
 
 
@@ -449,7 +449,7 @@ cursor: pointer
 /**********************************************************************************************************************/
 .about {
   
- height:55vw;
+ height:45vw;
   
 
  
