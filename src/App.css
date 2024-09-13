@@ -238,13 +238,12 @@ nav svg {
   opacity: 0.8;
 
   background-size:cover ;
-  position: relative;
 
 
 }
 
 .header-contents{
-  position: absolute;
+
 display: flex;
 flex-direction: column;
 justify-content: center;
