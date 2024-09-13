@@ -400,7 +400,7 @@ cursor: pointer
   
       .header{
 
-          min-height: fit-content;
+          min-height: 70vw;
       }
 
   .header-contents h2{
